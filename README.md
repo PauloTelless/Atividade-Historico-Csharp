@@ -1,0 +1,1 @@
+Nesse repositório, está contido um exercício que foi proposto pelo professor da Universidade. Basicamente, foi utilizar alguns conceitos de pilha para simular a execução de um navegador web. Feito na linguagem C#.
