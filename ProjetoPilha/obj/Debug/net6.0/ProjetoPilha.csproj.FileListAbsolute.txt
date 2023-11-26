@@ -1,0 +1,4 @@
+E:\ProjetoPilha\ProjetoPilha\obj\Debug\net6.0\ProjetoPilha.GeneratedMSBuildEditorConfig.editorconfig
+E:\ProjetoPilha\ProjetoPilha\obj\Debug\net6.0\ProjetoPilha.AssemblyInfoInputs.cache
+E:\ProjetoPilha\ProjetoPilha\obj\Debug\net6.0\ProjetoPilha.AssemblyInfo.cs
+E:\ProjetoPilha\ProjetoPilha\obj\Debug\net6.0\ProjetoPilha.csproj.CoreCompileInputs.cache
